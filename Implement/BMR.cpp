@@ -9,6 +9,10 @@ int main()
 	char gender;
 	int weight,height,age,BMR;
 	
+	cout << "\n****************************************\n"
+         << "            Basal Metabolic Ratio"
+         << "\n****************************************\n";
+	
 	cout<<"Enter your Name:"<<endl;
 	cin>>name;
 	cout<<"Enter your Weight(in Kgs):"<<endl;
