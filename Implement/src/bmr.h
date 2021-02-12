@@ -21,10 +21,10 @@ int bmr()
 	cout<<"Enter your Gender:"<<endl;
 	cin>>gender;
 
-	if(gender=='M'||gender=='m')
+if(gender=='M'||gender=='m')
 	{
 		BMR=66.47+(13.75*weight)+(5.00*height)-(6.75*age);
-		cout<<name<<"has a"<<BMR<<"amount of Calories"<<endl;
+		cout<<name<<" has a "<<BMR<<" amount of Calories"<<endl;
 	}
 	else if (gender =='F'||gender=='f')
 	{
