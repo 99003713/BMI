@@ -26,7 +26,7 @@ cout<<"\nEnter The Current Year(Eg:2010):";
 cin>>currentyear;
        
         int agey,agem;
-        agey=currentyear-birthyear;
+        agey=(currentyear-birthyear)-1;
         agem=12-birthmonth;
         cout<<"\n\n\t\tYour Age is "<<agey<<" Years And "<<agem<<" Months ";
         
