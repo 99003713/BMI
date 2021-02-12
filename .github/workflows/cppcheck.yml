@@ -1,4 +1,4 @@
-name: C/C++ CI
+name: Cppcheck
 
 on:
   push:
@@ -7,11 +7,13 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  cppcheck:
 
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
-    - name: make
-      run: make -C 3_implementation
+    - name: Install cppcheck
+      run: sudo apt -y install cppcheck
+    - name: Run cppcheck
+      run: cppcheck Implement
