@@ -15,6 +15,6 @@ int test_division(void)
 	/*Run the Test Functions */
 	RUN_TEST(test_division_basic);
 
-	/* Close the Unity Test Framework */
+	/* Close Unity Test Framework */
 	return UNITY_END();
 }
