@@ -12,6 +12,7 @@ int height()
 		cout << "Wrong height input!! Please enter again : ";
 		cin >> cent;
 	}
+	//formulae for calculating height//
 	feet = (0.032 * cent);
 	inch = (0.3937 * cent);
 	cout << "\n The height in feet is: " << feet << endl;
