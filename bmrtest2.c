@@ -9,7 +9,7 @@ void test_division_basicse(void)
 
 int test_division(void)
 {
-	/* Initiate the Unity Test Framework */
+	/* Initiate Unity Test Framework */
 	UNITY_BEGIN();
 
 	/* Run Test functions */
