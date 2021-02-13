@@ -12,7 +12,7 @@ int test_division(void)
 	/* Initiate Unity Test Framework */
 	UNITY_BEGIN();
 
-	/* Run Test functions */
+	/*Run the Test Functions */
 	RUN_TEST(test_division_basic);
 
 	/* Close the Unity Test Framework */
