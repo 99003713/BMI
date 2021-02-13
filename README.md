@@ -1,3 +1,4 @@
+[![Code Grade](https://www.code-inspector.com/project/18971/score/svg)](tps://frontend.code-inspector.com/public/project/18971/Vishal/dashboard)
 # BMI and BMR CALCULATOR
 ## PURPOSE
 ### Body Mass Index(BMI)
