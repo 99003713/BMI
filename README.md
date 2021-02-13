@@ -1,5 +1,5 @@
 [![Code Grade](https://www.code-inspector.com/project/18985/score/svg)](https://frontend.code-inspector.com/public/project/18985/BMI/dashboard)
-[![Code Grade](https://www.code-inspector.com/project/18985/grade/svg)](https://frontend.code-inspector.com/public/project/18985/BMI/dashboard)
+
 # BMI and BMR CALCULATOR
 ## PURPOSE
 ### Body Mass Index(BMI)
