@@ -1,5 +1,5 @@
 #include<iostream>
-#include "height.h"
+#include "height.hpp"
 using namespace std;
 int bmi1(int w, int h)
 {   int bmi;
