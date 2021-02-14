@@ -26,7 +26,7 @@ Folder             | Description
 
 Name                             |   PS No.  |    Features    |       
 ---------------------------------|-----------|----------------|
-`1) Venkatampalli Sai Bhargav`   | 99003586  | Exponential    |    
+`1) Vishal Bajpai                | 99003683  | UML,Requirement|    
 `2) Sanjana G S`                 | 99003588  | Multiplication |  
 `3) Madhura Subramanya Bhat`     | 99003589  | Percentage     |        
 `4) Jai Shrivastava`             | 99003682  | BMR      | 
