@@ -1,5 +1,5 @@
 #include<iostream>
-#include "bmi1.hpp"
+#include "bmi1.h"
 using namespace std;
 int gendef(char gender, int cat)
 {

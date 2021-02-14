@@ -1,17 +1,17 @@
 #include<iostream>
-#include "calc_gender.hpp"
+#include "calc_gender.h"
 using namespace std;
-void gender_cal()
-{
-    char gender;
+int  main()
 
+{
+
+char gender;
     cout << "\n****************************************\n"
          << "            Body Mass Index"
          << "\n****************************************\n";
     cout << "Gender (M or F):";
     cin >> gender;
     calc_gender(gender);
-  
-    
-    return 0;
+
+return 0;
 }

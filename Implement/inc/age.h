@@ -1,5 +1,5 @@
 #include <iostream>
-#include "bmr.hpp"
+#include "bmr.h"
 using namespace std;
 int age()
  {
