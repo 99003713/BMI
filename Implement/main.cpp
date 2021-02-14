@@ -1,7 +1,7 @@
 #include<iostream>
 #include "calc_gender.h"
 using namespace std;
-int main()
+void gender_cal()
 {
     char gender;
 
