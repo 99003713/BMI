@@ -27,7 +27,7 @@ Folder             | Description
 Name                             |   PS No.  |    Features    |       
 ---------------------------------|-----------|----------------|
 `1) Vishal Bajpai                | 99003683  | UML,Requirement|    
-`2) Sanjana G S`                 | 99003588  | Multiplication |  
+`2) Vaibhav Singh                 | 99003686  | Requirement Analysis,Height Converter |  
 `3) Madhura Subramanya Bhat`     | 99003589  | Percentage     |        
 `4) Jai Shrivastava`             | 99003682  | BMR      | 
 `5) Abhisar Ekka`                | 99003592  | Addition       |  
