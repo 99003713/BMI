@@ -17,10 +17,10 @@ Basal Metabolic Rate is the number of calories required to keep your body functi
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
-`1_requirements`   | Documents detailing requirements and research
-`2_design`         | Documents specifying design details
-`3_implementation` | All code and documentation
-`4_test_plan`      | Documents with test plans and procedures
+`Requirement`      | Documents detailing requirements and research
+`Design`           | Documents specifying design details
+`Implement`        | All code and documentation
+`.github`          | Workflows 
 
 ## Contributors List
 
