@@ -30,4 +30,4 @@ Name                             |   PS No.  |    Features    |
 `2) Vaibhav Singh                | 99003686  | Requirement Analysis,Height Converter|  
 `3) Ajeet kumar mishra     `     | 99003681  | BMI,Integration part of files|        
 `4) Jai Shrivastava`             | 99003682  | BMR            | 
-`5) Abhisar Ekka`                | 99003592  | Addition       |  
+`5) Pavitra Katiyar              | 99003685  | Age,Feasibility Study,Requirement Research |  
