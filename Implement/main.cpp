@@ -1,5 +1,5 @@
 #include<iostream>
-#include "calc_gender.h"
+#include "calc_gender.hpp"
 using namespace std;
 void gender_cal()
 {
