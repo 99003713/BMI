@@ -43,7 +43,6 @@ Developer will need few data that needs to be entered by the user like height ,w
 #### B) FLOW DIAGRAM
 ![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/Low%20Level/Flow%20diagram.jpg)<br />
 
-#### B) FLOW DIAGRAM
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
