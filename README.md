@@ -31,6 +31,13 @@ This project mostly requires no post testing procedures. In the initial phase it
 ### 5.How 
 Developer will need few data that needs to be entered by the user like height ,weight,D.O.B etc.And the program will automatically calculate the BMI and will tell whether person is healthy or not.Along with that It will also suggest ,how much more or less calories to be consumed by an individual in order to be fit.
 
+## Design
+### 1.High Level
+#### A) DATA FLOW DIAGRAM
+![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/High%20Level/DFD-1.png)<br />
+#### B) CLASS DIAGRAM
+![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/High%20Level/UMLCLASS-1.png)<br />
+
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
