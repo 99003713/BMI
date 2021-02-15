@@ -25,7 +25,7 @@ Name                             |   PS No.  |    Features    |
 
     1)We faced challenges in Unity Confuigration.
     2)We faced challenges in unit testing.
-    3)We faced challenges in git insprector
+    3)We faced challenges in git inspector
     4)We faced challenges in makefile
 
 ## PURPOSE
