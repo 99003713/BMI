@@ -5,6 +5,7 @@
 ![C/C++ CI](https://github.com/VishalBajLtts/BMI/workflows/C/C++%20CI/badge.svg)
 ![Unity - Unit Testing](https://github.com/VishalBajLtts/BMI/workflows/Unity%20-%20Unit%20Testing/badge.svg)
 ![Cppcheck](https://github.com/VishalBajLtts/BMI/workflows/Cppcheck/badge.svg)
+![Inspect](https://github.com/VishalBajLtts/BMI/workflows/Inspect/badge.svg)
 
 
 ## Folder Structure
