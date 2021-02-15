@@ -2,6 +2,7 @@
 
 [![Code Quality Score](https://www.code-inspector.com/project/18985/score/svg)](https://frontend.code-inspector.com/public/project/18985/BMI/dashboard)
 [![Code Grade](https://www.code-inspector.com/project/18985/status/svg)](https://frontend.code-inspector.com/public/project/18985/BMI/dashboard)
+![C/C++ CI](https://github.com/VishalBajLtts/BMI/workflows/C/C++%20CI/badge.svg)
 
 ## Folder Structure
 Folder             | Description
