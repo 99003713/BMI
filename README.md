@@ -90,10 +90,10 @@ Developer will need few data that needs to be entered by the user like height ,w
 
 ### 2) LOW LEVEL
    A)In this project we use GitHub repository to store the project and Visual Studio code for debugging the code.
-   Some other tools are used for making the UML diagrams.
-   B)The CPP programming language is used in this entire project.
+   Some other tools are used for making the UML diagrams.<BR/>
+   B)The CPP programming language is used in this entire project.<BR/>
    C)In this project we use GitHub repository to store the project and Visual Studio code for debugging the code.
-     Some other tools are used for making the UML diagrams
+     Some other tools are used for making the UML diagrams.
 
 
 
