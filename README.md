@@ -21,7 +21,7 @@ Folder             | Description
 Name                             |   PS No.  |    Features    |       
 ---------------------------------|-----------|----------------|
 `1) Vishal Bajpai`               | 99003683  | UML,Requirement Analysis|    
-`4) Vaibhav Singh`               | 99003686  | Requirement Analysis,Height Converter|  
+`2) Vaibhav Singh`               | 99003686  | Requirement Analysis,Height Converter|  
 `3) Ajeet kumar mishra     `     | 99003681  | BMI,Integration part of files|        
 `4) Jai Shrivastava`             | 99003682  | BMR, SWOT           | 
 `5) Pavitra Katiyar`             | 99003685  | Age,Feasibility Study,Requirement Research |  
