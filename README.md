@@ -25,7 +25,7 @@ Name                             |   PS No.  |    Features    |
 
     1)We faced challenges in Unity Confuigration.
     2)We faced challenges in unit testing.
-    3)We faced challenges in git inspector
+    3)We faced challenges in git insprector
     4)We faced challenges in makefile
 
 ## PURPOSE
@@ -69,6 +69,31 @@ Developer will need few data that needs to be entered by the user like height ,w
 
 ## SWOT ANALYSIS
 ![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Requirement/SWOT_Analysis/SWOT.PNG)<br/>
+
+## Requirements
+### 1) HIGH LEVEL
+#### BMI Calculator
+   BMI can help determine a person that weather it is unhealthy or healthy weight.These are the data on which BMI is categorised:
+   Below 18.5 is underweight.
+   Between 18.5 and 24.9 is Normal
+   Between 25 and 29.9 is an overweight BMI.
+   The formula for calculating the BMI, weight is divided by the square of the height. Here the weight is in kilograms and height is in meters.
+                                                        BMI=kg/(m)^2
+ #### AGE Calculator                                                     
+   To fulfil the requirement of finding the age by using the date of birth, this age calculator is made.
+ #### BMR Calculator
+   Basal Metabolic Rate is the number of calories required to keep your body functioning at rest. BMR is also known as your body’s metabolism; therefore any increase to your         metabolic weight such as exercise will increase your BMR.
+
+   BMR for Men: 66.47 + (13.75 * weight [kg]) + (5.003 * height [cm]) − (6.755 * age [years])
+
+   BMR for Women: 655.1 + (9.563 * weight [kg]) + (1.85 * height[cm]) − (4.676 * age [years])
+
+### 2) LOW LEVEL
+   A)In this project we use GitHub repository to store the project and Visual Studio code for debugging the code.
+   Some other tools are used for making the UML diagrams.
+   B)The CPP programming language is used in this entire project.
+   C)In this project we use GitHub repository to store the project and Visual Studio code for debugging the code.
+     Some other tools are used for making the UML diagrams
 
 
 
