@@ -36,8 +36,14 @@ Developer will need few data that needs to be entered by the user like height ,w
 #### A) DATA FLOW DIAGRAM
 ![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/High%20Level/DFD-1.png)<br />
 #### B) CLASS DIAGRAM
-![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/High%20Level/UMLCLASS-1.png)<br />
+![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/High%20Level/CLASS.PNG)<br />
+### 2.Low Level
+#### A) USE CASE DIAGRAM
+![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/Low%20Level/UseCase-converted%20(1)-1.png)<br />
+#### B) FLOW DIAGRAM
+![Alt Text](https://github.com/VishalBajLtts/BMI/blob/main/Design/Low%20Level/Flow%20diagram.jpg)<br />
 
+#### B) FLOW DIAGRAM
 ## Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
